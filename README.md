@@ -1,2 +1,2 @@
 # AngularJS
-Angular JS 6
+Angular JS 7
